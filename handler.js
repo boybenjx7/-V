@@ -575,8 +575,8 @@ for (let cs of callUpdate) {
 if (cs.isGroup == false) {
 if (cs.status == "offer") {
 let callmsg = await this.reply(nk.from, `Hola *@${cs.from.split('@')[0]}*, Las ${cs.isVideo ? 'videollamadas' : 'llamadas'} están prohibidas, seras bloqueado`, false, { mentions: [cs.from] })
-let vcard = `BEGIN:VCARD\nVERSION:3.0\nN:;Azami 👑;;;\nFN:Azami\nORG:Azami 👑\nTITLE:\nitem1.TEL;waid=18134039996:+598 9999\nitem1.X-ABLabel:Azami 👑\nX-WA-BIZ-DESCRIPTION:Solo cosas del bot.\nX-WA-BIZ-NAME:Azami 👑\nEND:VCARD`
-await this.sendMessage(cs.from, { contacts: { displayName: 'Azami 👑', contacts: [{ vcard }] }}, {quoted: callmsg})
+let vcard = `BEGIN:VCARD\nVERSION:3.0\nN:;𝑯𝒚𝒑𝒆𝒓´V;;;\nFN:𝑯𝒚𝒑𝒆𝒓\nORG:𝑯𝒚𝒑𝒆𝒓´V\nTITLE:\nitem1.TEL;waid=18134039996:+598 9999\nitem1.X-ABLabel:𝑯𝒚𝒑𝒆𝒓´V\nX-WA-BIZ-DESCRIPTION:Solo cosas del bot.\nX-WA-BIZ-NAME:𝑯𝒚𝒑𝒆𝒓´V\nEND:VCARD`
+await this.sendMessage(cs.from, { contacts: { displayName: '𝑯𝒚𝒑𝒆𝒓´V', contacts: [{ vcard }] }}, {quoted: callmsg})
 await this.updateBlockStatus(cs.from, 'block')
 }}}
 }
