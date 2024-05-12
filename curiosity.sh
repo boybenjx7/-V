@@ -1,5 +1,5 @@
-# Código creado por @gata_dios
-# Modificado por @AzamiJs
+# Código creado por Hyper´V
+# Modificado por @boybenjx7
 
 #!/data/data/com.termux/files/usr/bin/bash 
 # Interpretación determinada para la ejecución     
@@ -148,5 +148,5 @@ echo -e "\e[38;38;5;183m
 ░█▄▄█ ░█▄▄▀ ░█▀▀▀ ░█▀▀▀ ░█▀▀▀ ░█▄▄▀ ░█▀▀▀ ░█░█░█ ░█─── ░█─ ░█▄▄█ 
 ░█─── ░█─░█ ░█▄▄▄ ░█─── ░█▄▄▄ ░█─░█ ░█▄▄▄ ░█──▀█ ░█▄▄█ ▄█▄ ░█─░█\n\e[0m"
     
-echo -e "\033[38;5;188m\033[01m🚀 Iniciando CuriosityBot-MD!!\n\033[0m"
+echo -e "\033[38;5;188m\033[01m🚀 Iniciando Hyper´V!!\n\033[0m"
 npm start
