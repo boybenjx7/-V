@@ -11,8 +11,8 @@ let bio = biografia.status?.toString() || 'Sin Biografía'
 let biobot = biografiaBot.status?.toString() || 'Sin Biografía'
 
 await conn.sendContactArray(m.chat, [
-[devnum, `${await conn.getName('5214434703586'+'@s.whatsapp.net')}`, `🍭 Creador`, dev, email, `🇲🇽 México`, `https://www.youtube.com/@Azami_YT`, bio],
-[`${conn.user.jid.split('@')[0]}`, `${await conn.getName(conn.user.jid)}`, `🍧 CuriosityBot-MD`, `📵 No Hacer Spam`, email, `🇲🇽 México`, `https://github.com/AzamiJs/CuriosityBot-MD`, biobot]
+[devnum, `${await conn.getName('5214434703586'+'@s.whatsapp.net')}`, `🍭 Creador`, dev, email, 'PE PERU`, `+51 936732723`, bio],
+[`${conn.user.jid.split('@')[0]}`, `${await conn.getName(conn.user.jid)}`, `𝑯𝒚𝒑𝒆𝒓´V`, `📵 No Hacer Spam`, email, `PE PERU`, `https://github.com/boybenjx7`, biobot]
 ], m)
   
 }
