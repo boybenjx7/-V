@@ -1,4 +1,4 @@
-console.log('🚀 Iniciando...')
+console.log('🚀 Iniciando Hyper-V...')
 import { join, dirname } from 'path'
 import { createRequire } from 'module'
 import { fileURLToPath } from 'url'
@@ -15,12 +15,12 @@ const { name, author } = require(join(__dirname, './package.json')) // https://w
 const { say } = cfonts
 const rl = createInterface(process.stdin, process.stdout)
 
-say('Curiosity\nBot\nMD', {
+say('Hyper-V\nBot\nMD', {
 font: 'block',
 align: 'center',
 colors: ['magenta', 'cyan']
 })
-say(`Bot: ${name}\nVersion: 1.0.5\nCreador: Azami ~ Zam\nNumero: +591 62714296\nEmail: thecuriositybot@gmail.com`, {
+say(`Bot: ${name}\nVersion: 1.0.5\nCreador: Benja`, {
 font: 'console',
 gradient: ['blue', 'magenta']
 })
