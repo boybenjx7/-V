@@ -1,4 +1,4 @@
-## 𝑯𝒚𝒑𝒆𝒓'𝑽 : ＢＯＴ ✨️
+## 𝑯𝒚𝒑𝒆𝒓'𝑽
 
 <p align="center">
 <img src="https://th.bing.com/th/id/OIG2.t6SMLw75Pp9ssDkcg_m7?pid=ImgGn" alt="𝑯𝒚𝒑𝒆𝒓'𝑽" width="900"/>
