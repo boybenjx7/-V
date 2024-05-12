@@ -1,7 +1,7 @@
 ## 𝑯𝒚𝒑𝒆𝒓'𝑽 : ＢＯＴ ✨️
 
 <p align="center">
-<img src="[[https://telegra.ph/file/04b7a17f4f7aaa302b2d8.jpg](https://th.bing.com/th/id/OIG2.t6SMLw75Pp9ssDkcg_m7?pid=ImgGn)](https://telegra.ph/file/04b7a17f4f7aaa302b2d8.jpg)" alt="CuriosityBot-MD" width="900"/>
+<img src="https://th.bing.com/th/id/OIG2.t6SMLw75Pp9ssDkcg_m7?pid=ImgGn" alt="CuriosityBot-MD" width="900"/>
 </p>
 
 <a href="https://github.com/azamijs/CuriosityBot-MD"><img title="Stars" src="https://img.shields.io/github/stars/azamijs/CuriosityBot-MD?color=ff4500&style=flat-square" /></a>
