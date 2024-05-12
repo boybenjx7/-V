@@ -33,42 +33,11 @@ await conn.sendMessage(m.chat, { text: str, contextInfo: { externalAdReply: { ti
 if (command == 'grupos') {
 let text = `🚩 *Grupos oficiales*
 
-⬡ *CuriosityBot-MD*
+⬡ *𝑯𝒚𝒑𝒆𝒓´V*
 ${group}
 
-⬡ *Enlaces Curiosity*
-${group2}
-
-⬡ *Curiosity Global*
-${group3}
-
-🎌 *Colaboraciones*
-
-⬡ *Multi Bots*
-${group4}
-
-⬡ *NovaBot - CuriosityBot*
-${group5}
-
-⬡ *GataBot - CuriosityBot*
-${group6}
-
-⬡ *Curiosity - Criwilop*
-${group7}
-
-⬡ *CuriosityBot - SakuraBot*
-${group8}
-
-⬡ *OnyxBot - CuriosityBot*
-${group9}
-
-✨ *Canales oficiales*
-
-⬡ *CuriosityBot*
-${channel}
-
-⬡ *INFINITY-WA*
-https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A`
+⬡ *GRUPO OFICIAL 𝑯𝒚𝒑𝒆𝒓´V*
+https://chat.whatsapp.com/DXAdja6QqGsEqMtuTJNTXn`
 
 conn.reply(m.chat, text, m, fake, )
 }
