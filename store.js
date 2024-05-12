@@ -8,46 +8,32 @@ global.__filename = function filename(pathURL = import.meta.url, rmPrefix = plat
 const __dirname = global.__dirname(import.meta.url)
 
 //Imagenes
-global.imagen1 = fs.readFileSync('./storage/logos/Menu1.jpg')
-global.imagen2 = fs.readFileSync('./storage/logos/Menu2.jpg')
-global.imagen3 = fs.readFileSync('./storage/logos/Menu3.jpg')
-global.imagen4 = fs.readFileSync('./storage/logos/Menu4.jpg')
-global.icon = fs.readFileSync('./storage/logos/icon.webp')
+global.imagen1 = fs.readFileSync('https://th.bing.com/th/id/OIG2.t6SMLw75Pp9ssDkcg_m7?pid=ImgGn')
+global.imagen2 = fs.readFileSync('https://th.bing.com/th/id/OIG2.t6SMLw75Pp9ssDkcg_m7?pid=ImgGn')
+global.imagen3 = fs.readFileSync('https://th.bing.com/th/id/OIG2.t6SMLw75Pp9ssDkcg_m7?pid=ImgGn')
+global.imagen4 = fs.readFileSync('https://th.bing.com/th/id/OIG2.t6SMLw75Pp9ssDkcg_m7?pid=ImgGn')
+global.icon = fs.readFileSync('https://th.bing.com/th/id/OIG2.t6SMLw75Pp9ssDkcg_m7?pid=ImgGn')
 
-global.config = fs.readFileSync('./storage/imagenes/configuraciones.jpg')
-global.suerte = fs.readFileSync('./storage/imagenes/suerte.jpg')
-global.oracion = fs.readFileSync('./storage/imagenes/oracion.jpg')
-global.rosas = fs.readFileSync('./storage/imagenes/rosas.jpg')
-global.refran = fs.readFileSync('./storage/imagenes/refran.jpg')
-global.linksjpg = fs.readFileSync('./storage/imagenes/Links.jpg')
+global.config = fs.readFileSync('https://th.bing.com/th/id/OIG2.t6SMLw75Pp9ssDkcg_m7?pid=ImgGn')
+global.suerte = fs.readFileSync('https://th.bing.com/th/id/OIG2.t6SMLw75Pp9ssDkcg_m7?pid=ImgGn')
+global.oracion = fs.readFileSync('https://th.bing.com/th/id/OIG2.t6SMLw75Pp9ssDkcg_m7?pid=ImgGn')
+global.rosas = fs.readFileSync('https://th.bing.com/th/id/OIG2.t6SMLw75Pp9ssDkcg_m7?pid=ImgGn')
+global.refran = fs.readFileSync('https://th.bing.com/th/id/OIG2.t6SMLw75Pp9ssDkcg_m7?pid=ImgGn')
+global.linksjpg = fs.readFileSync('https://th.bing.com/th/id/OIG2.t6SMLw75Pp9ssDkcg_m7?pid=ImgGn')
 
-var img = 'https://telegra.ph/file/9a9a4851b638c90ebb214.jpg'; var img1 = 'https://telegra.ph/file/c248943164f6a3d28088c.jpg'; var img2 = 'https://telegra.ph/file/f14102fec3b4104e41e98.jpg'; var img3 = 'https://telegra.ph/file/5646b7540b22e8a00615e.jpg'; var img4 = 'https://telegra.ph/file/e6c11fc60a74a77789f56.jpg'; var img5 = 'https://telegra.ph/file/19af932324e24ceb896cd.jpg'
-var img6 = 'https://telegra.ph/file/e1c9c47c389b17de97a03.jpg'; var img7 = 'https://telegra.ph/file/caa791fa59111b4b4311a.jpg'; var img8 = 'https://telegra.ph/file/76fff527eeaa2b61099ca.jpg'; var img9 = 'https://telegra.ph/file/3dad91ec4eea23ea93f3d.jpg'; var img10 = 'https://telegra.ph/file/4443d4eb77531313b1f9b.jpg'
+var img = 'https://th.bing.com/th/id/OIG2.t6SMLw75Pp9ssDkcg_m7?pid=ImgGn'; var img1 = 'https://th.bing.com/th/id/OIG2.t6SMLw75Pp9ssDkcg_m7?pid=ImgGn'; var img2 = 'https://th.bing.com/th/id/OIG2.t6SMLw75Pp9ssDkcg_m7?pid=ImgGn'; var img3 = 'https://th.bing.com/th/id/OIG2.t6SMLw75Pp9ssDkcg_m7?pid=ImgGn'; var img4 = 'https://th.bing.com/th/id/OIG2.t6SMLw75Pp9ssDkcg_m7?pid=ImgGn'; var img5 = 'https://th.bing.com/th/id/OIG2.t6SMLw75Pp9ssDkcg_m7?pid=ImgGn'
+var img6 = 'https://th.bing.com/th/id/OIG2.t6SMLw75Pp9ssDkcg_m7?pid=ImgGn'; var img7 = 'https://th.bing.com/th/id/OIG2.t6SMLw75Pp9ssDkcg_m7?pid=ImgGn'; var img8 = 'https://th.bing.com/th/id/OIG2.t6SMLw75Pp9ssDkcg_m7?pid=ImgGn'; var img9 = 'https://th.bing.com/th/id/OIG2.t6SMLw75Pp9ssDkcg_m7?pid=ImgGn'; var img10 = 'https://th.bing.com/th/id/OIG2.t6SMLw75Pp9ssDkcg_m7?pid=ImgGn'
 
 global.ImgAll = [img, img1, img2, img3, img4, img5, img6, img7, img8, img9, img10]
 
 //Enlaces
-global.yt = 'https://www.youtube.com/@Zam_D.A'
-global.ig = 'https://instagram.com/zam_sharly'
-global.threads = 'https://www.threads.net/@zam_sharly'
-global.md = 'https://github.com/AzamiJs/CuriosityBot-MD'
-global.paypal = 'https://paypal.me/Azamijs'
-global.git = 'https://github.com/AzamiJs'
-global.linkwabot = 'https://wa.me/message/QRWLLJZ2PH3MG1'
-global.email = 'thecuriositybot@gmail.com'
-global.x = 'https://x.com/Sharli_Zam'
-global.tg = 't.me/Sharly_Zam'
-global.group = 'https://chat.whatsapp.com/EfWlxyVXlZ7AWVJ6sjJvyI' //Grupo ofc
-global.group2 = 'https://chat.whatsapp.com/B8RJAm16U2EISSDETrPivq' //enlace curiosity
-global.group3 = 'https://chat.whatsapp.com/J1R402WH1N0Hdl3S0NDEYu' //Curiosity global
-global.group4 = 'https://chat.whatsapp.com/KjR8NTfdWwU1a66uDOOGLZ' //colaboración multi bots
-global.group5 = 'https://chat.whatsapp.com/E9qJfvlLjENKAxnhII9rao' //Colaboración CuriosityBot - NovaBot
-global.group6 = 'https://chat.whatsapp.com/KQtWZDVfosTKbheIlndLBN' //Colaboración GataBot - CuriosityBot
-global.group7 = 'https://chat.whatsapp.com/BXdy1TYcQ5NLs4Xy9jNavH' //Colaboración CuriosityBot - Criwilop
-global.group8 = 'https://chat.whatsapp.com/JNdlCEUKLqHAw87sOqfKmO' //Colaboración CuriosityBot - SakuraBot
-global.group9 = 'https://chat.whatsapp.com/EvRZx8BOI2RFcV3KLFGOU8' //Colaboración OnyxBot - CuriosityBot
-global.channel = 'https://whatsapp.com/channel/0029VaB4w2ZFHWpwgyEe3w2k'
-global.linkSity = [yt, ig, md, paypal, git, channel, email, threads, x, tg, linkwabot]
+global.ig = 'https://instagram.com/boybenjx7'
+global.md = 'https://github.com/boybenjx7/Hyper-V'
+global.git = 'https://github.com/boybenjx7'
+global.email = 'benjaparchado@gmail.com'
+global.group = 'https://chat.whatsapp.com/DXAdja6QqGsEqMtuTJNTXn' //Grupo ofc
+global.group2 = 'https://chat.whatsapp.com/DXAdja6QqGsEqMtuTJNTXn' //enlace hyper´v
+global.group3 = 'https://chat.whatsapp.com/DXAdja6QqGsEqMtuTJNTXn' //hyper´v global
 
 //Raíz
 global.raiz = './'
