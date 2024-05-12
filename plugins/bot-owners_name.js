@@ -1,14 +1,14 @@
-/*Codigo Actualizado Y Editado Para El Bot CuriosityBot-MD
-Comando Actualizado Por AzamiJs*/
+/*Codigo Actualizado Y Editado Para El Bot 𝑯𝒚𝒑𝒆𝒓´V
+Comando Actualizado Por @boybenjx7*/
 
 /*let handler = (m) => m
 handler.before = async function (m) {
 
 var chat = global.db.data.chats[m.chat]
 
-if (/^Azami|azami|Zam|zam$/i.test(m.text) && !chat.isBanned) { 
+if (/^Benja|Hyper|@boybenjx7|´V$/i.test(m.text) && !chat.isBanned) { 
 
-let GB = `🚩 *Parece que se ha mencionado el nombre de mi creador* ( @59162714296 )`
+let GB = `🚩 *Parece que se ha mencionado el nombre de mi creador @boybenjx7* ( @51936732723 )`
 
 m.reply(GB, m.chat, { mentions: conn.parseMention(GB)})
 
@@ -17,7 +17,7 @@ m.reply(GB, m.chat, { mentions: conn.parseMention(GB)})
 {
 if (/^kitsune|arumi|ari|aruu$/i.test(m.text) && !chat.isBanned) { 
 
-let KIT = `🚩 *Mencionaste el nombre de un colaborador* ( @5215610314499 )`
+let KIT = `🚩 *Mencionaste el nombre de un colaborador* ( @51936732723 )`
 
 m.reply(KIT, m.chat, { mentions: conn.parseMention(KIT)})
 }
