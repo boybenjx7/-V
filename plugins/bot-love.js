@@ -4,15 +4,15 @@ let name = conn.getName(who)
 const pp = './storage/logos/Menu2.jpg'
 
 let love = `╭━━━━━━━◇x◇━━━━━━━╮
-┃ • *LOVE - CURIOSITYBOT* 🪷
+┃ • *LOVE - HYPER* 🪷
 ┣━━━━━━━◇x◇━━━━━━━╯
 ┃ ┌─────⊱◈◈◈⊰─────
-┃ ┃🚩 Nombre: ${name}
+┃ ┃🚩 Nombre 𝑯𝒚𝒑𝒆𝒓´V: ${name}
 ┃ ┃💞 Amor Por Ti Es: *${Math.floor(Math.random() * 100)}%* De *100%*
 ┃ └─────⊱◈◈◈⊰─────
 ╰━━━━━━━◇x◇━━━━━━━╯
 
-❤️ Hay Amor, ¿debes pedirle matrimonio?`
+❤️ Hay Amor 𝑯𝒚𝒑𝒆𝒓´V, ¿debes pedirle matrimonio?`
 
 conn.sendMessage(m.chat, {text: love, mentions: [m.sender]}, {quoted: m})
 
