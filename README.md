@@ -139,4 +139,4 @@ para usuarios del heroku
 
 
 ### EDITOR Y PROPIETARIO DEL BOT
-<a href="https://github.com/AzamiJs"><img src="https://github.com/AzamiJs.png" width="250" height="250" alt="@BOYBENJX7"/></a>
+<a href="https://github.com/boybenjx7"><img src="https://th.bing.com/th/id/OIG2.t6SMLw75Pp9ssDkcg_m7?pid=ImgGn" width="250" height="250" alt="@BOYBENJX7"/></a>
