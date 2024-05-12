@@ -29,8 +29,8 @@ before: `> ╭─❒ 「 *Usuario* 🎗️ 」
 > │○ *Rango:* %role
 > │○ *Exp:* %exp
 > │
-> ├─❒ 「 *InfoBot* 🚩 」
-> │○ *Creador:* Azami / Zam
+> ├─❒ 「 *InfoBot𝑯𝒚𝒑𝒆𝒓´V* 🚩 」
+> │○ *Creador:* 𝑯𝒚𝒑𝒆𝒓´V / @boybenjx7
 > │○ *Tiempo Activo:* %muptime
 > │○ *Registrados:* %rtotalreg De %totalreg Usuarios
 > │
