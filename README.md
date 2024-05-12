@@ -140,3 +140,8 @@ para usuarios del heroku
 
 ### EDITOR Y PROPIETARIO DEL BOT
 <a href="https://github.com/boybenjx7"><img src="https://th.bing.com/th/id/OIG2.t6SMLw75Pp9ssDkcg_m7?pid=ImgGn" width="250" height="250" alt="@BOYBENJX7"/></a>
+
+
+###  COLABORADOR
+[![Karim-off](https://github.com/Karim-off.png?size=100)](https://github.com/Karim-off) 
+> Copyright (c) 2024 **[Karim-off](https://github.com/Karim-off/LuckyBot-MD/blob/master/LICENSE)**.
