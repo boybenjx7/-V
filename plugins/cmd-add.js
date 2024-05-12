@@ -8,7 +8,7 @@ if (!text) return conn.reply(m.chat, `🎌 *Texto faltante*\n\nUso correcto:\n${
 const sticker = global.db.data.sticker
 const hash = m.quoted.fileSha256.toString('base64')
 
-if (sticker[hash] && sticker[hash].locked) return conn.reply(m.chat, '🚩 *¡Solo mi propietario puede usar esta función!*', m, fake, )
+if (sticker[hash] && sticker[hash].locked) return conn.reply(m.chat, '🚩 *¡Solo mi propietario 𝑯𝒚𝒑𝒆𝒓´V puede usar esta función!*', m, fake, )
 sticker[hash] = {text, mentionedJid: m.mentionedJid, creator: m.sender, at: + new Date, locked: false}
 conn.reply(m.chat, `✅ *Guardado correctamente*`, m, fake, )
 }
