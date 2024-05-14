@@ -32,7 +32,7 @@ const fload = { key : { message: `𝑯𝒚𝒑𝒆𝒓´V` + `\nAzami`, thumbnai
 
 m.react('🏷️')
   
-let menu = `*👋 Hola 𝑯𝒚𝒑𝒆𝒓´V, ${user}*
+let menu = `*👋 Hyper´V te saluda, ${user}*
 
 _${formatDate}_
 
@@ -45,7 +45,7 @@ _(Para ver el menú completo)_
 !menu2
 _(Para ver el menu audios)_`
 
-await conn.reply(m.chat, menu, a, { contextInfo: { externalAdReply: {title: '👋 ¡Hola 𝑯𝒚𝒑𝒆𝒓´V!', body: saludo, sourceUrl: ig, thumbnail: await (await fetch(pp)).buffer() }}})
+await conn.reply(m.chat, menu, a, { contextInfo: { externalAdReply: {title: '👋 ¡Hyper´V te saluda', body: saludo, sourceUrl: ig, thumbnail: await (await fetch(pp)).buffer() }}})
 
 } catch {
 conn.reply(m.chat, `*🚩 Ocurrió un fallo*`, m, fake, )
